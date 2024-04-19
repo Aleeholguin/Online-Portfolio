@@ -1,2 +1,2 @@
 # Online-Portfolio
-This contains my contains my Portfolio
+This contains my Portfolio
