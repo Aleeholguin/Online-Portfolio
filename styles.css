@@ -1,0 +1,20 @@
+/*body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* This will make the body take the full viewport height */
+}*/
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: flex; /* This will make the list items align in a row */
+    justify-content: center; /* This will center the list items */
+}
+
+ul li {
+    display: inline-block;
+    margin-right: 4px; /* Optional: to remove the space between inline-block elements */
+}
